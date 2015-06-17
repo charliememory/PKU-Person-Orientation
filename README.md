@@ -1,6 +1,6 @@
 # PKU-Person-Orientation
 Download Link  
-Baidu Yun Pan,	http://pan.baidu.com/s/1ntl64mX 
+Baidu Yun Pan,	http://pan.baidu.com/s/1ntl64mX  
 Google Driver,	https://drive.google.com/file/d/0B176otcbAxRIQ05IekhZa3ltUFE/view?usp=sharing
 
 PKU Person Orientation dataset:
@@ -26,12 +26,13 @@ the left-top point coordinate of person image.
 If you use this dataset please cite:
 @inproceedings{PKU_Orientation_2015_01,
 	author = {Hong Liu, Liqian Ma},
-	title = {},
-	booktitle = {},
+	title = {Oline person orientation estimation based on classifier update},
+	booktitle = {Image Processing (ICIP), 2015 22th IEEE International Conference on},
 	volume = {},
 	number = {},
 	year = 2015,
-	month = Jan,
+	month = Sep,
 	pages = {},
-	address = {},
+	address = {Quebec, Canada},
+  	organization={IEEE}
 }
